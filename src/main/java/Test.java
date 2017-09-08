@@ -2,5 +2,5 @@ public class Test {
 	Test() {}
 
 	void doSomething() {}
-	void doSomething2() {}
+	void doSomething21() {}
 }
