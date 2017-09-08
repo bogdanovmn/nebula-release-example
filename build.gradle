@@ -1,5 +1,4 @@
 group 'com.github.bogdanovmn'
-version '1.0-SNAPSHOT'
 
 buildscript {
     repositories { jcenter() }
