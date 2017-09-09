@@ -3,7 +3,7 @@ group 'com.github.bogdanovmn'
 buildscript {
     repositories { jcenter() }
     dependencies {
-        classpath 'com.netflix.nebula:nebula-release-plugin:6.0.0'
+        classpath 'com.netflix.nebula:nebula-release-plugin:6.0.1'
     }
 }
 apply plugin: 'nebula.release'
